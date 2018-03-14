@@ -1,0 +1,8 @@
+git init : untuk inisialisasi awal
+git add nama_file : untuk menambahkan file ke dalam git
+git add . : untuk menambahkan file dalam jumlah banyak > 1
+git status : untuk melihat status file kita
+git commit -m "komentar" : untuk membuat commit baru, file2 baru di update 
+
+git remote add origin https://github.com/sigitkurniawansk/tryGit.git : untuk meremote
+git push -u origin master : untuk mepush data kita
